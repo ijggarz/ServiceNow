@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>Garciano_Application_Files_Exercise</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-10 10:10:48</sys_created_on>
+        <sys_id>cb9228fdc36012108af81c65e40131c4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Garciano Application Files Exercise</sys_name>
+        <sys_package display_value="NeedIt" source="x_1521025_needit">f3e0607dc36012108af81c65e401319f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">f3e0607dc36012108af81c65e401319f</sys_scope>
+        <sys_update_name>sys_ui_view_cb9228fdc36012108af81c65e40131c4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-10 10:10:48</sys_updated_on>
+        <title>Garciano Application Files Exercise</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

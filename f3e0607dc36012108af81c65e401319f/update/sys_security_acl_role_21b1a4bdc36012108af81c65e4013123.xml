@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-10 10:06:53</sys_created_on>
+        <sys_id>21b1a4bdc36012108af81c65e4013123</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1521025_needit_needit.x_1521025_needit.needit_user</sys_name>
+        <sys_package display_value="NeedIt" source="x_1521025_needit">f3e0607dc36012108af81c65e401319f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">f3e0607dc36012108af81c65e401319f</sys_scope>
+        <sys_security_acl display_value="x_1521025_needit_needit">adb1a4bdc36012108af81c65e401311f</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_21b1a4bdc36012108af81c65e4013123</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-10 10:06:53</sys_updated_on>
+        <sys_user_role display_value="x_1521025_needit.needit_user" name="x_1521025_needit.needit_user">2db1607dc36012108af81c65e4013140</sys_user_role>
+    </sys_security_acl_role>
+</record_update>
